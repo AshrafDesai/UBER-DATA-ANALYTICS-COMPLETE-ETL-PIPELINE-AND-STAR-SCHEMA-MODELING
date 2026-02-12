@@ -234,7 +234,8 @@ This project successfully implements a complete end-to-end Data Engineering solu
 
 * Power BI reporting
 
-## Author
+### 👨‍💻 Author
 
-# Asharafraza Desai
-# Data Engineering Enthusiast
+**Asharafraza Desai**  
+📊 Data Engineering Enthusiast  
+⚡ Building scalable data solutions with Spark & Databricks
